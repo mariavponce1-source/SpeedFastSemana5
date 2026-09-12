@@ -50,4 +50,4 @@ El proyecto se compone de 5 piezas clave:
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_REPOSITORIO>
+   git clone <https://github.com/mariavponce1-source/SpeedFastSemana5.git>
